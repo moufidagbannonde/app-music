@@ -4,9 +4,9 @@ Un forumalaire avec Angular se gère suivant deux approches: les réactifs (en: 
 
 # *ngFor
 
-Lorsque nous utilisons la directive *ngFor, Angular cré un ensemble de variables pour chaque itération. Les variables créés sont:
+Lorsque nous utilisons la directive *ngFor, Angular crée un ensemble de variables pour chaque itération. Les variables créées sont:
 
-- **index** : variable qui stock l'indice de l'élément actuel
+- **index** : variable qui stocke l'indice de l'élément actuel
 - **first** : variable booléenne qui indique si l'élément est le premier dans la liste
 - **last** : variable booléenne qui indique si l'élément est le dernier dans la liste
 - **even**: variable boolénne qui indique si l'indice de l'élément actuel est pair
